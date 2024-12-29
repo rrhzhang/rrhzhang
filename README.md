@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 i'm currently learning ML and app development<br>💬 reach out @ ronaldarezhang at gmail dot com<br><br>📚 cs @ georgia tech<br>
+🔭 i'm currently learning ML and app development<br>💬 reach out @ ronaldarezhang at gmail dot com<br>📚 cs @ georgia tech
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ronaldarezhang) 
 
 # 💻 Tech Stack:
